@@ -58,7 +58,7 @@ class Card extends StatelessWidget {
   ///
   /// The [elevation] must be null or non-negative. The [borderOnForeground]
   /// must not be null.
-  const Card({
+    const Card({
     Key? key,
     this.color,
     this.shadowColor,
